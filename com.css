@@ -1,0 +1,35 @@
+body{
+background-color: black;
+}
+
+h1{
+    text-align: center;
+    color: chartreuse;
+
+}
+
+
+
+
+
+
+td, th{
+	border: 2px solid rgb(139, 137, 4);
+	padding: 10px;
+    text-decoration-line:underline;
+    color: chartreuse;
+}
+
+table{
+    table-layout: ;
+}
+
+.list{
+    text-decoration-line: underline;
+    color: chartreuse;
+}
+
+.Shrek{
+    color: chartreuse;
+    font-size: 100px;
+}
